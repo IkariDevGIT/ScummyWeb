@@ -1,0 +1,19 @@
+! Title: badweb scum
+! Description: Scummy websites no one likes
+! Homepage: https://github.com/IkariDevGIT/badweb
+! License: https://raw.githubusercontent.com/IkariDevGIT/badweb/main/LICENSE
+!
+! GitHub issues: https://github.com/IkariDevGIT/badweb/issues
+! GitHub pull requests: https://github.com/IkariDevGIT/badweb/pulls
+
+*.bild.de
+*.computerbild.de
+*.chip.de
+*.heise.de
+*.softonic.com
+*.uptodown.com
+*.netzwelt.de
+*.giga.de
+*.computerbase.de
+*.pcwelt.de
+*.getapp.de

@@ -37,3 +37,6 @@
 ||audacity.de^
 ||audacity.es^
 ||winfuture.de^
+||golem.de^
+||wintotal.de^
+||pctipp.ch^

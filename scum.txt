@@ -6,14 +6,14 @@
 ! GitHub issues: https://github.com/IkariDevGIT/badweb/issues
 ! GitHub pull requests: https://github.com/IkariDevGIT/badweb/pulls
 
-*.bild.de
-*.computerbild.de
-*.chip.de
-*.heise.de
-*.softonic.com
-*.uptodown.com
-*.netzwelt.de
-*.giga.de
-*.computerbase.de
-*.pcwelt.de
-*.getapp.de
+bild.de
+computerbild.de
+chip.de
+heise.de
+softonic.com
+uptodown.com
+netzwelt.de
+giga.de
+computerbase.de
+pcwelt.de
+getapp.de

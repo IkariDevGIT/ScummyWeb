@@ -1,10 +1,10 @@
-! Title: badweb scum
-! Description: Scummy websites no one likes
-! Homepage: https://github.com/IkariDevGIT/badweb
-! License: https://raw.githubusercontent.com/IkariDevGIT/badweb/main/LICENSE
+! Title: ScummyWeb / Third-party download sites
+! Description: Includes fake/adware/mirror download sites.
+! Homepage: https://github.com/IkariDevGIT/ScummyWeb
+! License: https://raw.githubusercontent.com/IkariDevGIT/ScummyWeb/main/LICENSE
 !
-! GitHub issues: https://github.com/IkariDevGIT/badweb/issues
-! GitHub pull requests: https://github.com/IkariDevGIT/badweb/pulls
+! GitHub issues: https://github.com/IkariDevGIT/ScummyWeb/issues
+! GitHub pull requests: https://github.com/IkariDevGIT/ScummyWeb/pulls
 
 ||bild.de^
 ||computerbild.de^

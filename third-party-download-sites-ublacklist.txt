@@ -1,0 +1,77 @@
+! Title: ScummyWeb / Third-party download sites
+! Description: Includes fake/adware/mirror download sites.
+! Homepage: https://github.com/IkariDevGIT/ScummyWeb
+! License: https://raw.githubusercontent.com/IkariDevGIT/ScummyWeb/main/LICENSE
+!
+! GitHub issues: https://github.com/IkariDevGIT/ScummyWeb/issues
+! GitHub pull requests: https://github.com/IkariDevGIT/ScummyWeb/pulls
+
+*://*.bild.de/*
+*://*.computerbild.de/*
+*://*.chip.de/*
+*://*.heise.de/*
+*://*.softonic.com/*
+*://*.uptodown.com/*
+*://*.netzwelt.de/*
+*://*.giga.de/*
+*://*.computerbase.de/*
+*://*.pcwelt.de/*
+*://*.getapp.de/*
+*://*.aptoide.com/*
+*://*.download.it/*
+*://*.malavida.com/*
+*://*.digitaltrends.com/*
+*://*.apkcombo.com/*
+*://*.techspot.com/*
+*://*.play3.de/*
+*://*.downloadastro.com/*
+*://*.an1.com/*
+*://*.taptap.io/*
+*://*.ccm.net/*
+*://*.mob.org/*
+*://*.androidapksfree.com/*
+*://*.updatestar.com/*
+*://*.filehippo.de/*
+*://*.gameloop.com/*
+*://*.businessinsider.com/*
+*://*.audacity.de/*
+*://*.audacity.es/*
+*://*.winfuture.de/*
+*://*.golem.de/*
+*://*.wintotal.de/*
+*://*.pctipp.ch/*
+*://*.apkmirror.com/*
+*://*.apkcombo.com/*
+*://*.pcgames.de/*
+*://*.net.pk/*
+*://*.cnet.com/*
+*://*.androidapksfree.com/*
+*://*.sooftware.com/*
+*://*.whatsplus.online/*
+*://*.uoldown.com/*
+*://*.9apps.com/*
+*://*.fileplanet.com/*
+*://*.an1.com/*
+*://*.androidwaves.com/*
+*://*.apkmonk.com/*
+*://*.appsgag.com/*
+*://*.apkshub.com/*
+*://*.mcpelife.com/*
+*://*.androidp1.com/*
+*://*.apkmodget.com/*
+*://*.modilimitado.io/*
+*://*.mcpedl.org/*
+*://*.apktodo.io/*
+*://*.minecraftpe-mods.com/*
+*://*.mcpe-planet.com/*
+*://*.minecrafthub.com/*
+*://*.mcpemodhub.com/*
+*://*.mcbuild.org/*
+*://*.monster-mcpe.com/*
+*://*.cafebazaar.ir/*
+*://*.minecraft-pocket.com/*
+*://*.modscraft.net/*
+*://*.fmcpe.com/*
+*://*.mcpedl.org/*
+*://*.modbay.org/*
+*://*.mcpedl.com/*
